@@ -11,44 +11,44 @@ const Ways = () => {
     <>
       <div className="ways-to-visit">
         <h1>See Kashi in a Variety of Ways</h1>
-        <div class="wrapper">
-          <div class="card">
+        <div className="wrapper">
+          <div className="card">
             <img src={picture1} />
-            <div class="info">
+            <div className="info">
               <h2>Culture & Heritage</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
 
-          <div class="card">
+          <div className="card">
             <img src={picture3} />
-            <div class="info">
+            <div className="info">
               <h2>Subah-e-Banaras</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
           
-          <div class="card">
+          <div className="card">
                 <img src={picture2}/>
-                <div class="info">
+                <div className="info">
                     <h2>Nature & Adventure</h2>
 
-                    <a href="#" class="btn">Explore</a>
+                    <a href="#" className="btn">Explore</a>
                 </div>
             </div>
 
-            <div class="card">
+            <div className="card">
                 <img src={picture5}/>
-                <div class="info">
+                <div className="info">
                     <h2>Tent City</h2>
 
-                    <a href="#" class="btn">
+                    <a href="#" className="btn">
                     Explore
                     </a>
                 </div>

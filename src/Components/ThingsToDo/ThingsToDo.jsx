@@ -10,55 +10,55 @@ const ThingsToDo = () => {
     <>
       <div className="things-to-do">
         <h1>Things To Do</h1>
-        <div class="wrapper">
-          <div class="card">
+        <div className="wrapper">
+          <div className="card">
             <img src={gangaArti} />
-             <div class="info">
+             <div className="info">
               <h2>Culture & Heritage</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <img src={morningboat} />
-             <div class="info">
+             <div className="info">
               <h2>Culture & Heritage</h2>
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
 
-          <div class="card">
+          <div className="card">
             <img src={kashiVishwanath} />
-             <div class="info">
+             <div className="info">
               <h2>Culture & Heritage</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
           
-          <div class="card">
+          <div className="card">
             <img src={kashiVishwanath} />
-             <div class="info">
+             <div className="info">
               <h2>Culture & Heritage</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
           </div>
 
-          <div class="card">
+          <div className="card">
             <img src={sarnath} />
-             <div class="info">
+             <div className="info">
               <h2>Culture & Heritage</h2>
 
-              <a href="#" class="btn">
+              <a href="#" className="btn">
                 Explore
               </a>
             </div>
